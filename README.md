@@ -37,4 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedwagdy7&show_icons=true&locale=en" alt="mohamedwagdy72" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedwagdy7&" alt="mohamedwagdy72" /></p>![tryhackme stats](https://raw.githubusercontent.com/mohamedwagdy7/mohamedwagdy7/master/assets/thm_propic.png)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedwagdy7&" alt="mohamedwagdy72" /></p>
+
+![tryhackme stats](https://raw.githubusercontent.com/MohamedWagdy7/MohamedWagdy7/master/assets/thm_propic.png)

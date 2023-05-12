@@ -38,5 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedwagdy7&show_icons=true&locale=en" alt="mohamedwagdy72" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedwagdy7&" alt="mohamedwagdy72" /></p>
-![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+![tryhackme stats](https://raw.githubusercontent.com/mohamedwagdy7/mohamedwagdy7/master/assets/thm_propic.png)

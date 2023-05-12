@@ -4,21 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedwagdy72&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedwagdy72" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/wego74" target="blank"><img src="https://img.shields.io/twitter/follow/wego74?logo=twitter&style=for-the-badge" alt="wego74" /></a> </p>
-
 - 🌱 I’m currently learning **Bug Hunting**
 
 - 📝 I regularly write articles on [https://medium.com/@kalawy](https://medium.com/@kalawy)
 
-- 💬 Ask me about **Linux, Python and CTFs**
-
 - 📫 How to reach me **wagdym014@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamedwagdy72/](https://www.linkedin.com/in/mohamedwagdy72/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

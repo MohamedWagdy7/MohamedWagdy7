@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedwagdy7&show_icons=true&locale=en" alt="mohamedwagdy72" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedwagdy7&" alt="mohamedwagdy72" /></p>
+
+<h3 align="left">Scripts:</h3>
+

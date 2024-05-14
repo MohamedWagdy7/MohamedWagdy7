@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Wagdy</h1>
-<h3 align="center">A passionate JR Penetration Tester from Egypt</h3>
+<h3 align="center">JR Penetration Tester from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedwagdy72&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedwagdy72" /> </p>
 
 
-- 🌱 I’m currently learning **Bug Hunting**
+- 🌱 I’m currently learning **Pentesting**
 
 - 📝 I regularly write articles on [https://medium.com/@kalawy](https://medium.com/@kalawy)
 
